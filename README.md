@@ -1,3 +1,3 @@
 # git-demo
 
-New Line added on local machine
+Added new line on Tuesday
